@@ -1,5 +1,5 @@
 <div align="center">
-  ![hello](https://github.com/felipc247/felipc247/assets/133594425/c6f522e6-ccbb-4026-afa1-c7d9eca98f04)
+  <img src="https://github.com/felipc247/felipc247/assets/133594425/c6f522e6-ccbb-4026-afa1-c7d9eca98f04">
 </div>
 
 # Skills
@@ -14,7 +14,11 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: felipc273@gmail.com
+# Contacts
+
+My email:
+<b>felipc273@gmail.com</b>
+
 
 <div align = "center">
     <a href="https://www.tiktok.com/@spyanya7">
