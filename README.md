@@ -35,6 +35,9 @@ I play videogames frequently, best titles I've played are Tlou, Tlou 2, Horizon 
 
 ### Anime
 I watch animes sparely, only watched 3 in the last year, but I do like them a lot, kind of away to escape reality, my favorites are Dragon ball, Bocchi the rock, Onimai I'm now your sister and Spy x family 
+
+### Video editing
+I'm currently learning how to use After effects to make cool edits, it's a hobby now but it may turn as a job a day, you can find my edits on my tiktok ❤️
 # Contacts
 
 ## Email
